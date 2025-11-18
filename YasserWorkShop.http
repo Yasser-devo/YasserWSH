@@ -1,0 +1,6 @@
+@YasserWorkShop_HostAddress = http://localhost:5289
+
+GET {{YasserWorkShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

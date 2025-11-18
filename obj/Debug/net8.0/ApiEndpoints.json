@@ -1,0 +1,113 @@
+[
+  {
+    "ContainingType": "YasserWorkShop.Controllers.EmployerController",
+    "Method": "GetAllEmployers",
+    "RelativePath": "api/Employer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filteron",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "filterquery",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YasserWorkShop.Controllers.EmployerController",
+    "Method": "AddEmployer",
+    "RelativePath": "api/Employer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employer",
+        "Type": "YasserWorkShop.DTOS.EmployerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YasserWorkShop.Controllers.EmployerController",
+    "Method": "PatchEmloyer",
+    "RelativePath": "api/Employer",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "employer",
+        "Type": "Microsoft.AspNetCore.JsonPatch.Operations.Operation[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YasserWorkShop.Controllers.EmployerController",
+    "Method": "UpdateEmployer",
+    "RelativePath": "api/Employer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employer",
+        "Type": "YasserWorkShop.DTOS.EmployerDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YasserWorkShop.Controllers.EmployerController",
+    "Method": "DeleteEmployer",
+    "RelativePath": "api/Employer",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YasserWorkShop.Controllers.EmployerController",
+    "Method": "Getemployer",
+    "RelativePath": "api/Employer/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
