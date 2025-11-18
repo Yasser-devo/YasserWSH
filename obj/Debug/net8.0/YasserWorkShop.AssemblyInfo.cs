@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YasserWorkShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+697209130eac0c14ac0fab145885fba7480155dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("YasserWorkShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YasserWorkShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -172,3 +172,6 @@ C:\Users\nadasoft\Source\Repos\YasserWorkShop\bin\Debug\net8.0\Newtonsoft.Json.d
 C:\Users\nadasoft\Source\Repos\YasserWorkShop\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\nadasoft\Source\Repos\YasserWorkShop\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\nadasoft\Source\Repos\YasserWorkShop\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nadasoft\Source\Repos\YasserWorkShop\obj\Debug\net8.0\YasserWorkShop.sourcelink.json
+C:\Users\nadasoft\Source\Repos\YasserWorkShop\bin\Debug\net8.0\Npgsql.dll
+C:\Users\nadasoft\Source\Repos\YasserWorkShop\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

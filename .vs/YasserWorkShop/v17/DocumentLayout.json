@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|c:\\users\\nadasoft\\source\\repos\\yasserworkshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|c:\\users\\nadasoft\\source\\repos\\yasserworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|c:\\users\\nadasoft\\source\\repos\\yasserworkshop\\dtos\\employerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|solutionrelative:dtos\\employerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|c:\\users\\nadasoft\\source\\repos\\yasserworkshop\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|solutionrelative:models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|c:\\users\\nadasoft\\source\\repos\\yasserworkshop\\data\\wshdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ACE51C-866C-4BEA-BB10-80BEAE1B1442}|YasserWorkShop.csproj|solutionrelative:data\\wshdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1449176975:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\DTOS\\EmployerDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\EmployerDTO.cs",
+              "ToolTip": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\DTOS\\EmployerDTO.cs",
+              "RelativeToolTip": "DTOS\\EmployerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:40:19.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\Models\\Employer.cs",
+              "RelativeDocumentMoniker": "Models\\Employer.cs",
+              "ToolTip": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\Models\\Employer.cs",
+              "RelativeToolTip": "Models\\Employer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:39:53.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WSHDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\Data\\WSHDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\WSHDBContext.cs",
+              "ToolTip": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\Data\\WSHDBContext.cs",
+              "RelativeToolTip": "Data\\WSHDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:43:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAACAMzMzMzMbwAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:34:53.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nadasoft\\Source\\Repos\\YasserWorkShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T02:33:27.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

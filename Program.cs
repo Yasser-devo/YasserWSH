@@ -2,11 +2,12 @@ using Microsoft.EntityFrameworkCore;
 using YasserWorkShop.Data;
 using YasserWorkShop.Repositories;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<WSHDBContext>(options =>
-options.UseSqlServer(builder.Configuration.GetConnectionString("mycon")));
+options.UseNpgsql(builder.Configuration.GetConnectionString("con")));
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddScoped<IEmployeerRepo, EmployeerRepo>();
 builder.Services.AddControllers().AddNewtonsoftJson();
